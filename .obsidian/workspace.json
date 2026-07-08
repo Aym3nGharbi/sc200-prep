@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e8952c7a334e819",
+        "id": "1c429e94193221fd",
         "type": "tabs",
         "children": [
           {
-            "id": "302a08d2e5b67ec7",
+            "id": "946ecb46c6cae52c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -173,9 +174,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "302a08d2e5b67ec7",
-  "lastOpenFiles": []
+  "active": "3302072835d21e17",
+  "lastOpenFiles": [
+    "09-Purview",
+    "08-Defender-Cloud",
+    "07-Threat-Hunting",
+    "06-Defender-Endpoint",
+    "05-Defender-XDR",
+    "Untitled.canvas",
+    "04-Detections-Investigations",
+    "03-Connect-Logs",
+    "02-Sentinel-Environment",
+    "01-KQL"
+  ]
 }
