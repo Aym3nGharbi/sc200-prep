@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,12 +180,13 @@
   },
   "active": "3302072835d21e17",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
     "09-Purview",
     "08-Defender-Cloud",
     "07-Threat-Hunting",
     "06-Defender-Endpoint",
     "05-Defender-XDR",
-    "Untitled.canvas",
     "04-Detections-Investigations",
     "03-Connect-Logs",
     "02-Sentinel-Environment",
