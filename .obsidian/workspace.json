@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-KQL/02 - KQL Summarize and Visualize.md",
+                "file": "01-KQL/03 - KQL Union & Join.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - KQL Summarize and Visualize"
+              "title": "03 - KQL Union & Join"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "946ecb46c6cae52c",
   "lastOpenFiles": [
-    "01-KQL/01 - KQL Foundations.md",
     "01-KQL/02 - KQL Summarize and Visualize.md",
+    "01-KQL/03 - KQL Union & Join.md",
+    "01-KQL/01 - KQL Foundations.md",
     "Untitled.md",
     "Untitled.canvas",
     "09-Purview",
