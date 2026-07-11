@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-KQL/01 - KQL Foundations.md",
+                "file": "01-KQL/02 - KQL Summarize and Visualize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - KQL Foundations"
+              "title": "02 - KQL Summarize and Visualize"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "946ecb46c6cae52c",
   "lastOpenFiles": [
-    "Untitled.md",
     "01-KQL/01 - KQL Foundations.md",
+    "01-KQL/02 - KQL Summarize and Visualize.md",
+    "Untitled.md",
     "Untitled.canvas",
     "09-Purview",
     "08-Defender-Cloud",
