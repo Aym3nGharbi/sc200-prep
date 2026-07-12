@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-KQL/03 - KQL Union & Join.md",
+                "file": "01-KQL/04 - KQL Work with Data in Microsoft Sentinel (Structured Unstructured Data, External Data, Parsers, ASIM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - KQL Union & Join"
+              "title": "04 - KQL Work with Data in Microsoft Sentinel (Structured Unstructured Data, External Data, Parsers, ASIM)"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "946ecb46c6cae52c",
   "lastOpenFiles": [
-    "01-KQL/02 - KQL Summarize and Visualize.md",
     "01-KQL/03 - KQL Union & Join.md",
+    "01-KQL/04 - KQL Work with Data in Microsoft Sentinel (Structured Unstructured Data, External Data, Parsers, ASIM).md",
+    "01-KQL/02 - KQL Summarize and Visualize.md",
     "01-KQL/01 - KQL Foundations.md",
     "Untitled.md",
     "Untitled.canvas",
