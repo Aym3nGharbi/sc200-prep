@@ -1,5 +1,3 @@
-# 
-
 ## 1. Introduction
 
 - Understanding how to work with **structured** and **unstructured** string data in KQL is the foundation for extracting usable data when building detections.
