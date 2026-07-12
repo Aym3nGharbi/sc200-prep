@@ -40,8 +40,9 @@ SigninLogs
 ```
 
 **Output:**
-| DeviceDetail (raw) | OS |
-|---|---|
+
+| DeviceDetail (raw)                                                            | OS         |
+| ----------------------------------------------------------------------------- | ---------- |
 | `{"deviceId":"abc123","operatingSystem":"Windows 10","browser":"Chrome 118"}` | Windows 10 |
 
 Dot notation `Column.Key` works like accessing a JSON property in JS/Python. KQL also supports bracket notation: `DeviceDetail["operatingSystem"]`.
