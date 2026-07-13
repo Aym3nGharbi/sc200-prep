@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Sentinel-Environment/Watchlists.md",
+                "file": "02-Sentinel-Environment/05 - Microsoft Sentinel Threat Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watchlists"
+              "title": "05 - Microsoft Sentinel Threat Intelligence"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "946ecb46c6cae52c",
   "lastOpenFiles": [
+    "02-Sentinel-Environment/04 - Watchlists.md",
+    "02-Sentinel-Environment/05 - Microsoft Sentinel Threat Intelligence.md",
     "02-Sentinel-Environment/03 - Microsoft Sentinel Query Logs.md",
-    "02-Sentinel-Environment/Watchlists.md",
     "02-Sentinel-Environment/02 - Create and Manage Microsoft Sentinel Workspaces.md",
     "02-Sentinel-Environment/01 - Introduction to Microsoft Sentinel.md",
     "01-KQL/04 - KQL Work with Data in Microsoft Sentinel (Structured Unstructured Data, External Data, Parsers, ASIM).md",
