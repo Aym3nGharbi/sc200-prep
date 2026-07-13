@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Sentinel-Environment/01 - Introduction to Microsoft Sentinel.md",
+                "file": "02-Sentinel-Environment/03 - Microsoft Sentinel Query Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Introduction to Microsoft Sentinel"
+              "title": "03 - Microsoft Sentinel Query Logs"
             }
           }
         ]
@@ -186,11 +186,13 @@
   },
   "active": "946ecb46c6cae52c",
   "lastOpenFiles": [
+    "02-Sentinel-Environment/02 - Create and Manage Microsoft Sentinel Workspaces.md",
+    "02-Sentinel-Environment/03 - Microsoft Sentinel Query Logs.md",
+    "02-Sentinel-Environment/01 - Introduction to Microsoft Sentinel.md",
     "01-KQL/04 - KQL Work with Data in Microsoft Sentinel (Structured Unstructured Data, External Data, Parsers, ASIM).md",
     "01-KQL/03 - KQL Union & Join.md",
     "01-KQL/02 - KQL Summarize and Visualize.md",
     "01-KQL/01 - KQL Foundations.md",
-    "02-Sentinel-Environment/01 - Introduction to Microsoft Sentinel.md",
     "Untitled.md",
     "Untitled.canvas",
     "09-Purview",
